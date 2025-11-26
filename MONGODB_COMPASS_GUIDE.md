@@ -32,7 +32,7 @@ mongodb://localhost:27017/skillmatchai
 
 ### **MongoDB Atlas (Cloud):**
 ```
-mongodb+srv://username:password@cluster.mongodb.net/skillmatchai
+
 ```
 
 ### **Connection Steps:**
