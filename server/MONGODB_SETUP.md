@@ -32,8 +32,7 @@ This guide will help you set up MongoDB for your SkillMatchAI project. You have 
 
 ### Step 5: Update Environment Variables
 Update your `.env` file with the connection string:
-```env
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/skillmatchai?retryWrites=true&w=majority
+```
 ```
 
 ## Option 2: Local MongoDB
