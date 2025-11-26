@@ -1,0 +1,26 @@
+# Node modules
+client/node_modules/
+server/node_modules/
+
+# Python cache
+ai-service/__pycache__/
+*.pyc
+
+# Environment files
+*.env
+.env
+
+# Build outputs
+dist/
+build/
+client/dist/
+client/build/
+server/dist/
+server/build/
+
+# VSCode
+.vscode/
+
+# OS / Generated files
+.DS_Store
+Thumbs.db
