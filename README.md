@@ -133,15 +133,6 @@ cd ai-service && python app.py
 - **Backend API**: http://localhost:5000/api
 - **AI Service**: http://localhost:5001
 
-## 📋 Default Accounts
-
-### Admin Account
-- **Email**: admin@skillmatchai.com
-- **Password**: admin123
-
-### Regular User
-- **Email**: user@skillmatchai.com
-- **Password**: user123
 
 ## 🔧 API Endpoints
 
@@ -300,10 +291,6 @@ cd ai-service
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - spaCy for NLP capabilities
@@ -311,11 +298,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - MongoDB for database
 - React team for the amazing framework
 - Express.js for the robust backend
-
-## 📞 Support
-
-For support, email support@skillmatchai.com or create an issue on GitHub.
-
----
-
-**Built with ❤️ by the SkillMatchAI Team**
